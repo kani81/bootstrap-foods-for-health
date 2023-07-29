@@ -1,0 +1,66 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+
+
+.carousel-content{
+	display:flex;
+}
+
+.para{
+	padding-left:80px;
+	padding-top:20px;
+	font-size:35px;
+	text-align:center;
+	font-family:Brush Script MT;
+	text-shadow: 2px 2px pink;
+
+}
+.para:hover{
+		background-color:skyblue;
+}
+
+/*card-section*/
+
+#card-section{
+	margin-top:100px;
+}
+
+.card-title{
+	font-family:"Open Sans", sans-serif;
+	font-size:35px;
+}
+.card-title:hover{
+	color:cyan;
+}
+	
+.card-text{
+	font-family:Cursive;
+	color:brown;
+	font-size:20px;
+	
+}
+.card-img-top{
+	width:70%;
+	height:60%;
+	padding-left:100px;
+	padding-top:40px;
+}
+/*accordion-section*/
+
+
+.accordion-section{
+	margin-top:70px;
+}
+
+.accordion-body{
+color:red;
+font-family:Verdana;
+font-size:20px;
+
+}
+
+

@@ -1,0 +1,19 @@
+@media(min-width:320px){
+	.carousel-content{
+			flex-wrap:wrap;
+	}
+	.para{
+		padding-left:30px;
+		padding-top:50px;
+	}
+}
+
+@media(min-width:1000px){
+	.carousel-content{
+			flex-wrap:nowrap;
+	}
+	.para{
+		padding-left:80px;
+		padding-top:150px;
+	}
+}
